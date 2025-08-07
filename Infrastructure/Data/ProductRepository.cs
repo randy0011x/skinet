@@ -53,7 +53,7 @@ namespace Infrastructure.Data
                 _ => query.OrderBy(x => x.Name)
             };
 
-            return await query.ToListAsync();
+            return await query.Skip(5).Take(5).ToListAsync();
             //return await storeContext.Products.ToListAsync();
         }
 

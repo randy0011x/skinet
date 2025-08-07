@@ -29,7 +29,6 @@ C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\staticwebassets.buil
 C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
 C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\API.csproj.Up2Date
-C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\API.dll
 C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\refint\API.dll
 C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\API.pdb
 C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\API.genruntimeconfig.cache
@@ -167,3 +166,4 @@ C:\Users\BRamanarayanan\Box\POC\skinet\API\bin\Debug\net9.0\runtimes\win\lib\net
 C:\Users\BRamanarayanan\Box\POC\skinet\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\BRamanarayanan\Box\POC\skinet\API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\API.sourcelink.json
+C:\Users\BRamanarayanan\Box\POC\skinet\API\obj\Debug\net9.0\API.dll
